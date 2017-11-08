@@ -14,6 +14,7 @@ and open the template in the editor.
             Introduzca el DNI: <input type="text" size="30" maxlength="8" value="Escriba un numero de dni" name="dni"
                                       onclick=" value = '' ">
             <INPUT type="submit" value="Buscar">
+            
         </form>
     </body>
 </html>
