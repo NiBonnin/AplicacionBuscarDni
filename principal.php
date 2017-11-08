@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Hola loko</title>
+        <title>Resultados</title>
     </head>
     <body>
         <?php            

@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Hola loko</title>
+        <title>Busqueda de persona por DNI</title>
     </head>
     <body>
         <form action="principal.php?dni= 'dni'" method="GET">
